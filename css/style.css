@@ -166,7 +166,9 @@ footer p{
     .carousel-item img {
         height: 75vh !important;
     }
-
+    .img-lastet ,.right{
+        clip-path: none !important;
+    }
 }
 
 @media (max-width:600px) {
